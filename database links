@@ -1,0 +1,4 @@
+#DATABASES
+you can find the MNIST database in the following link
+     A training set http://www.pjreddie.com/media/files/mnist_train.csv
+      A test set http://www.pjreddie.com/media/files/mnist_test.csv
